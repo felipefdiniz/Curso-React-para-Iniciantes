@@ -1,2 +1,3 @@
 # Curso-React-para-Iniciantes
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://fngd6.csb.app/)
